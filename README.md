@@ -20,11 +20,13 @@ The dashboard provides interactive and visual insights into:
 ## 🧰 Tools Used
 
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Formulas)
+  
 
 ## 📸 Preview
 
 [Dashboard Screenshot]
-(paste your dashboard screenshot here)
+![image](https://github.com/user-attachments/assets/7d9b1bdc-6883-43bc-8ac7-ffdd8312d401)
+
 
 ## 🏁 Getting Started
 
